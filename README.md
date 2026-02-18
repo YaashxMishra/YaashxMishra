@@ -87,15 +87,7 @@ Strong implementation of algorithms & OOP
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YaashxMishra/YaashxMishra/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YaashxMishra/YaashxMishra/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/YaashxMishra/YaashxMishra/output/pacman-contribution-graph.svg">
-</picture>
-
-## 👾 Pac-Man Contribution Game
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YaashxMishra/YaashxMishra/output/pacman-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YaashxMishra/YaashxMishra/output/pacman.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/YaashxMishra/YaashxMishra/output/pacman.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YaashxMishra/YaashxMishra/output/pacman-contribution-graph.svg">
 </picture>
 
 
