@@ -78,7 +78,8 @@ Strong implementation of algorithms & OOP
 
 ## 🧊 3D Contribution Graph
 
-<img src="https://raw.githubusercontent.com/YaashxMishra/YaashxMishra/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+![](https://raw.githubusercontent.com/YaashxMishra/YaashxMishra/main/profile-3d-contrib/profile-night-rainbow.svg)
+
 
 
 ## 👾 Pac-Man Contribution Game
