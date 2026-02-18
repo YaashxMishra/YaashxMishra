@@ -75,3 +75,17 @@ Strong implementation of algorithms & OOP
 ⭐ If you find my work interesting, consider following me
 
 </div>
+
+## 🧊 3D Contribution Graph
+
+<img src="https://raw.githubusercontent.com/YaashxMishra/YaashxMishra/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+
+
+## 👾 Pac-Man Contribution Game
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YaashxMishra/YaashxMishra/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YaashxMishra/YaashxMishra/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/YaashxMishra/YaashxMishra/output/pacman-contribution-graph.svg">
+</picture>
+
